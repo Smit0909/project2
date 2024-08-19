@@ -1,3 +1,3 @@
 # New Project
 
-The Project was created from local system created by Smit.
+The Project was created from local system created by Smit
